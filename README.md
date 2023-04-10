@@ -80,7 +80,7 @@ docker push peacevan/fullcycle
 ```
 docker pull peacevan/fullcycle
 ```
-link dockerhub
+# Link da imagem no dockerhub
 https://hub.docker.com/layers/peacevan/fullcycle/latest/images/sha256:b55651493f8d05b061e14dbe91d2ded2d44027ba27d5116a44683dc043a5a798
 ```
 ## Referências

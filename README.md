@@ -1,4 +1,4 @@
-# Desafio: Otimização de uma imagem golang com Menos de 2MB
+# Desafio: Otimização de uma imagem docker com golang com Menos de 2MB
 
 ## 🌱 Descrição do projeto 
 
